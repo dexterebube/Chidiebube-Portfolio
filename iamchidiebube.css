@@ -361,7 +361,7 @@ footer{
     padding: 10px 50px;
 }
 footer p {
-    margin-left: 50px;
+    margin-left: 0px;
 }
 .socials {
     display: flex;
